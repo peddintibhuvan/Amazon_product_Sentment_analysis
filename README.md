@@ -14,5 +14,5 @@ This project aims to perform sentiment analysis on amazon musical instruments re
 ## Technologies Used: ##
 Python,Jupyter Notebook,Panda,NumPy,Scikit-learn,NLTK/Spacy,Matplotlib  
 
-## Data Set used: ##
+## Data Set Used: ##
 https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Feswarchandt%2Famazon-music-reviews%3Fselect%3DMusical_instruments_reviews.csv
