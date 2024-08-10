@@ -6,8 +6,8 @@ This project aims to perform sentiment analysis on amazon musical instruments re
 •	Exploratory Data Analysis (EDA)/N-Gram Analysis: Visualizing and understanding the data distribution and key characteristics. 
 •	Model Selection & Evaluation: Assessing the performance of the models using metrics like accuracy, precision, recall, and F1-score. 
 
-##Technologies Used:##
+## Technologies Used:##
 Python,Jupyter Notebook,Panda,NumPy,Scikit-learn,NLTK/Spacy,Matplotlib  
 
-##Data Set used:##
+## Data Set used:##
 https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Feswarchandt%2Famazon-music-reviews%3Fselect%3DMusical_instruments_reviews.csv
